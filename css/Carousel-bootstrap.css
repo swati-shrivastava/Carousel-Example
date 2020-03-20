@@ -1,0 +1,15 @@
+.custom-carousel
+{
+  height: 31rem;
+  background: #727272;
+}
+
+.image{
+  height: 140px;
+  width: 140px;
+  background: #727272;
+}
+
+.custom-font{
+  font-size: 50px;
+}
